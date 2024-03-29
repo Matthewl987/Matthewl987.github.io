@@ -1,0 +1,35 @@
+body, html {
+    height: 90%;
+    margin: 0;
+}
+
+.content-container {
+    max-width: 1350px;
+    margin: auto;
+    padding: 1rem;
+}
+
+.centered-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.3vw;
+}
+
+h2 {
+    font-size: 1.55vw;
+}
+
+h3 {
+    font-size: 1.6vw;
+}
+
+img {
+    max-width: 95%;
+    height: auto;
+}
